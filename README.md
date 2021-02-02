@@ -3,5 +3,6 @@ R Functions for automating intercoder reliability checking for nominal data - in
 
 Initial Changelog
 
-1.0 - First upload
-1.0b - Improved printing to console output
+2/2/2021 - 1.0 uploaded to github
+
+2/2/2021 - 1.0b improved console printing of results
