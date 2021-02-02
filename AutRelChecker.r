@@ -49,5 +49,3 @@ AutRelChecker <- function(x, y, s.column = 1) {
   return(reliabilityresults)
   ### Function return statement - object is a dataframe containing values for Gwet AC1, Cohen Kappa and Simple Agreement
 }
-
-AutRelChecker(data_Rater1, data_Rater2, s.column = 6)
