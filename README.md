@@ -7,6 +7,7 @@ Made public and then archived for portfolio reasons and since it is no longer ne
 For more info, please check:
 
 Oleinik, A., Popova, I., Kirdina, S. et al. On the choice of measures of reliability and validity in the content-analysis of texts. Qual Quant 48, 2703–2718 (2014). https://doi.org/10.1007/s11135-013-9919-0
+
 Krippendorff, K. (2004), Reliability in Content Analysis. Human Communication Research, 30: 411-433. https://doi.org/10.1111/j.1468-2958.2004.tb00738.x
 
 
