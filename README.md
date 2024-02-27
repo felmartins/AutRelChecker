@@ -2,7 +2,10 @@
 R Functions for automating intercoder reliability checking for nominal data - DEPRECATED
 
 This was a helper script designed for fast testing of reliability in Content Analysis for non-coders. Code is VERY old and would defintely benefit from upgrades.
-Made public and then archived for portfolio reasons and since it is no longer needed to be used. If you are seeing this code for some reason, i would HIGHLY recommend not using blindly and actually informing yourself over how and why to perform reliability testing before using it. This code makes a large number of assumptions over the data to be used and can lead to misleading results without carefull consideration.
+
+Made public and then archived for portfolio reasons and since it is no longer needed to be used. 
+
+If you are seeing this code for some reason, i would HIGHLY recommend not using blindly and actually informing yourself over how and why to perform reliability testing before using it. This code makes a large number of assumptions over the data to be used and can lead to misleading results without carefull consideration.
 
 For more info, please check:
 
